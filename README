@@ -1,0 +1,3 @@
+This is a fixed version of the SurfTimer EventScripts plugin, originally made by Steven Hartin (freddukes). This fix was requested by the admins of SurfiT (surfit.game.nfoservers.com:27015, http://tf2jump.com).
+
+The original plugin had an issue that prevented records from being kept on maps without any previous existing records (Ctrl+f "Lange" in the source to see my changes).
